@@ -1,0 +1,21 @@
+body{
+    text-align: center; 
+}
+.container-resultado{
+    left: 39%;
+    position: absolute;
+    display: flex;
+    height: 100px;
+    width: 300px;
+    border: 2px solid;
+    border-radius: 5px;
+    color:blue;
+    justify-content: center;
+    align-items: center;
+}
+.resultado{
+    height: 40px;
+    width: 240px;
+    border: 1px solid;
+    color:black;
+}
